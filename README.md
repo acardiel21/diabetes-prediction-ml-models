@@ -1,6 +1,6 @@
 # diabetes-prediction-ml-models
 
-This project compares the performance of five supervised machine learning models to predict diabetes status using a real-world health dataset of over 250,000 individuals from the CDC's Behavioral Risk Factor Surveillance System (BRFSS). The was conducted as part of NYU's CS-UA 473: Fundamentals of Machine Learning.
+This project compares the performance of five supervised machine learning models to predict diabetes status using a real-world health dataset of over 250,000 individuals from the CDC's Behavioral Risk Factor Surveillance System (BRFSS). This was conducted as part of NYU's CS-UA 473: Fundamentals of Machine Learning.
 
 ---
 
